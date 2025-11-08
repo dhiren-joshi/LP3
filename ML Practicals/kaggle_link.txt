@@ -1,0 +1,2 @@
+dibetes:
+https://www.kaggle.com/code/pranav1753/diabetes-detection-using-k-nearest-neighbors-algo
