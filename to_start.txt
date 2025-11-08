@@ -1,0 +1,7 @@
+
+downloading_library
+sudo apt install python3-library_name
+
+to run Cpp file in ubuntu
+1) g++ file_name.cpp -o file_name
+2) ./file_name
